@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankitrai</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **keyloggers**
+- 🔭 I’m currently working on **Hindi-ocr**
 
 - 📫 How to reach me **ankitrai9977363200@gmail.com**
 
