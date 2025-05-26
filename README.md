@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankitrai</h1>
+<h1 align="center">Hi 👋, I'm Ankit rai</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on **Hindi-ocr**
