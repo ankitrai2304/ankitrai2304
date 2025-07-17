@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit rai</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **Hindi-ocr**
+- 🔭 I’m currently working on **3D STORY WEB**
 
 - 📫 How to reach me **ankitrai9977363200@gmail.com**
 
